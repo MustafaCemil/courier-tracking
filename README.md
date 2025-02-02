@@ -28,6 +28,9 @@ The application will start on http://localhost:8080.
 ## API Endpoints
 # http://localhost:8080/swagger-ui/index.html
 
+## H2 Console
+# http://localhost:8080/h2-console
+
 ## Design Patterns
 - Singleton: Used in @Service annotation to ensure a single instance of data.
 - Builder:  Used the lombok library implement the builder design pattern."
